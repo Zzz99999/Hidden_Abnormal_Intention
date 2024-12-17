@@ -11,8 +11,8 @@
 
 ## **Updates**
 - **07/2024**: Our paper "*Predicting the Unseen: A Novel Dataset for Hidden Intention Localization in Pre-abnormal Analysis*" has been accepted as an Oral Paper at ACM 2024!
-- **11/2024**: You can now download the **HAI Dataset Videos** [here](https://HAI_Videos下载链接).
-- **11/2024**: The **HAI Dataset Annotations** are available for download [here](https://pan.baidu.com/s/1B8Ngg0LGWeeBCrEcE7QoRg?pwd=8slw).
+- **11/2024**: You can now download the **HAI Dataset Videos** [here](https://pan.baidu.com/s/1B8Ngg0LGWeeBCrEcE7QoRg?pwd=8slw).
+- **11/2024**: The **HAI Dataset Annotations** are available for download [here](https://1drv.ms/u/c/cc512d5e61dad4e5/Eeyh1N2DUhdAn_0QzIntIUcBCpW0bHW3m-wuDXJ6PuqSCg?e=bre2nE).
 - **11/2024**: Features of the **HAI Dataset** can be accessed via the following links:
   - [VideoMaeV2 (Baidu)](https://pan.baidu.com/s/1QDsAOGoXRSTMH4NZyMZDCw?pwd=bgbi) | [VideoMaeV2 (OneDrive)](https://1drv.ms/u/c/cc512d5e61dad4e5/ETbP2ihl26JLhNja3mga0jcBQwONci-6hC6wH1_7im6HGw?e=0McIFc)
   - [I3D-rgb+flow (Baidu)](https://pan.baidu.com/s/1AfhGRFTBCZYsESn96IwsFg?pwd=porg) | [I3D-rgb+flow (OneDrive)](https://1drv.ms/u/c/cc512d5e61dad4e5/EaLb2C7lyMJNktVV80YbXPQBbmnNa7eVdixne5l-6UwyCA?e=xjpCvk)
