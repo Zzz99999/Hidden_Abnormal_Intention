@@ -11,7 +11,7 @@
 
 ## **Updates**
 - **07/2024**: Our paper "*Predicting the Unseen: A Novel Dataset for Hidden Intention Localization in Pre-abnormal Analysis*" has been accepted as an Oral Paper at ACM 2024!
-- **11/2024**: You can now download the **HAI Dataset Videos** [here](https://pan.baidu.com/s/1B8Ngg0LGWeeBCrEcE7QoRg?pwd=8slw).
+- **11/2024**: You can now download the **HAI Dataset Videos** [here](https://pan.baidu.com/s/1B8Ngg0LGWeeBCrEcE7QoRg?pwd=8slw) | [OneDrive](https://1drv.ms/u/c/cc512d5e61dad4e5/EXgNAzSJ3XpIorSNnJ5asmsBu1RIBMo--LZJmmZuDxuJWQ?e=QxhMfS)
 - **11/2024**: The **HAI Dataset Annotations** are available for download [here](https://1drv.ms/u/c/cc512d5e61dad4e5/Eeyh1N2DUhdAn_0QzIntIUcBCpW0bHW3m-wuDXJ6PuqSCg?e=bre2nE).
 - **11/2024**: Features of the **HAI Dataset** can be accessed via the following links:
   - [VideoMaeV2 (Baidu)](https://pan.baidu.com/s/1QDsAOGoXRSTMH4NZyMZDCw?pwd=bgbi) | [VideoMaeV2 (OneDrive)](https://1drv.ms/u/c/cc512d5e61dad4e5/ETbP2ihl26JLhNja3mga0jcBQwONci-6hC6wH1_7im6HGw?e=0McIFc)
@@ -22,7 +22,7 @@
 - **11/2024**: The email address of the author, Zehao Qi, has been updated to: [2021300004006@whu.edu.cn](mailto:2021300004006@whu.edu.cn).
 
 ## **Dataset Hierarchy**
-![Example2 Image](labeltree05.png)  
+<img src="labeltree05.png" width="300px" />  
 The abnormal intention is dissected into four coarse-grained dimensions, under which eleven detailed perspectives are distinguished.
 
 ## **Citation**
